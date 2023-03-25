@@ -1,0 +1,11 @@
+  3. Read about the differnce between window screen and document in javascript ?
+
+   Ans;  * The window is the actual global object. The screen is the screen, it 
+          contains properties about the user's display. The document is where the DOM.
+
+         * Window objects act as containers for your app's onscreen content, and screens 
+          report the characteristics of the underlying display to your app.
+          
+          *  The window object represents a window/tab containing a DOM document where as 
+           document object is property of window object that points to the DOM document 
+           loaded in that window
